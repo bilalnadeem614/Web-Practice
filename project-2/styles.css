@@ -39,6 +39,7 @@
 .content button {
     background: transparent;
     border: 2px solid;
+    border-radius: 4px;
     outline: none;
     padding: 12px 25px;
     color: #fff;
